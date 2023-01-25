@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-test
+  vmImage: ubutu-test
 
 steps:
 - task: Maven@3
